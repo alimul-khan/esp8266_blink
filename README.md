@@ -7,3 +7,4 @@
 ### Step 6: File >> Example >> ESP8266 >> blink ![Blink Sketch](5_blink.png)
 ### Step 6: Upload the program and see it is working
 ### Step 7: ALternatively, You can simplify the sketch as following. ![Blink Sketch](6_blink.png)
+### Step 8: When you are done with Upload, ![You will see a similar window](7_blink.png)
