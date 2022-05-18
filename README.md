@@ -8,3 +8,4 @@
 ### Step 6: Upload the program and see it is working
 ### Step 7: ALternatively, You can simplify the sketch as following. ![Blink Sketch](6_blink.png)
 ### Step 8: When you are done with Upload, ![You will see a similar window](7_blink.png)
+### Step 9: [See the video for 700ms/200ms](https://youtube.com/shorts/g_CoV9155OM?feature=share)
